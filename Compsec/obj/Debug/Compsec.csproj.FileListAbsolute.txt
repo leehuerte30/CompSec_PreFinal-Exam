@@ -1,0 +1,12 @@
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\bin\Debug\Compsec.exe.config
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\bin\Debug\Compsec.exe
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\bin\Debug\Compsec.pdb
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.csprojResolveAssemblyReference.cache
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.Form1.resources
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.Properties.Resources.resources
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.csproj.GenerateResource.Cache
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.exe
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\Compsec\Compsec\obj\Debug\Compsec.pdb
+C:\Users\Jollibe\Downloads\Quiz2\Quiz2\Compsec\bin\Debug\Compsec.exe.config
+C:\Users\Jollibe\Downloads\Quiz2\Quiz2\Compsec\obj\Debug\Compsec.exe
+C:\Users\Jollibe\Downloads\Quiz2\Quiz2\Compsec\obj\Debug\Compsec.pdb
